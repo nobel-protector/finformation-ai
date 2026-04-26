@@ -27,9 +27,14 @@ API_KEY = "AIzaSyDi_lrOV1ZqUnrZEV7CtPQCqELP2ZTmP24"
 client = genai.Client(api_key=API_KEY)
 
 # Load learning modules from local JSON file
-with open(CONFIG["paths"]["modules"], "r", encoding="utf-8") as f:
-    MODULES = json.load(f)
-
+import os
+MODULES = {}
+modules_folder = CONFIG["paths"]["modules"]
+for filename in sorted(os.listdir(modules_folder)):
+    if filename.endswith('.json'):
+        key = filename.replace('.json', '')
+        with open(os.path.join(modules_folder, filename), 'r', encoding='utf-8') as f:
+            MODULES[key] = json.load(f)
 # Load regulatory database into ChromaDB
 collection = load_database()
 
