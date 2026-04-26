@@ -1,0 +1,221 @@
+{
+  "patterns": [
+    {
+      "name": "Guaranteed Returns",
+      "description": "Any promise of guaranteed, assured, or fixed returns",
+      "keywords": [
+        "guaranteed",
+        "assured",
+        "guaranteed returns",
+        "assured returns",
+        "fixed returns",
+        "guaranteed profit",
+        "guaranteed income"
+      ],
+      "weight": 10,
+      "category": "CIS",
+      "example": "Invest today and get guaranteed 40% returns in 6 months"
+    },
+    {
+      "name": "Authority Impersonation",
+      "description": "Fake claims of SEBI, RBI, or government approval",
+      "keywords": [
+        "sebi approved",
+        "rbi backed",
+        "government scheme",
+        "rbi guarantee",
+        "sebi certified",
+        "government approved",
+        "pm scheme",
+        "finance ministry"
+      ],
+      "weight": 10,
+      "category": "GENERAL",
+      "example": "This scheme is SEBI approved and RBI backed"
+    },
+    {
+      "name": "Artificial Urgency",
+      "description": "Pressure to invest immediately with time limits",
+      "keywords": [
+        "limited slots",
+        "offer closes tonight",
+        "act now",
+        "only 50 investors",
+        "last chance",
+        "closing today",
+        "urgent",
+        "limited time",
+        "hurry",
+        "expires tonight"
+      ],
+      "weight": 8,
+      "category": "CIS",
+      "example": "Only 50 slots left — offer closes TONIGHT!"
+    },
+    {
+      "name": "FOMO Trigger",
+      "description": "Fear of missing out language to pressure investment",
+      "keywords": [
+        "200 people already",
+        "everyone is investing",
+        "dont miss out",
+        "already made lakhs",
+        "others are getting rich",
+        "exclusive opportunity",
+        "selected investors only"
+      ],
+      "weight": 7,
+      "category": "CIS",
+      "example": "200 people have already made lakhs. Get in now before it is too late"
+    },
+    {
+      "name": "Pump and Dump",
+      "description": "Hot tips about stocks with unrealistic return claims",
+      "keywords": [
+        "hot tip",
+        "secret deal",
+        "buy quietly",
+        "10x",
+        "5x",
+        "multibagger",
+        "before announcement",
+        "insider information",
+        "secret fda",
+        "before public"
+      ],
+      "weight": 9,
+      "category": "RA",
+      "example": "Hot tip — this stock will 10x. Secret FDA deal. Buy quietly before announcement"
+    },
+    {
+      "name": "Deepfake Promotion",
+      "description": "AI generated video or audio promoting investment",
+      "keywords": [
+        "video",
+        "youtube link",
+        "watch this video",
+        "as seen on tv",
+        "celebrity endorsement",
+        "actor recommends",
+        "cricketer investment",
+        "celebrity scheme"
+      ],
+      "weight": 9,
+      "category": "GENERAL",
+      "example": "Watch this video of Mukesh Ambani recommending this investment scheme"
+    },
+    {
+      "name": "Unregistered Entity",
+      "description": "Entity claiming legitimacy without SEBI registration",
+      "keywords": [
+        "new scheme",
+        "private scheme",
+        "exclusive fund",
+        "offshore fund",
+        "international scheme",
+        "global fund",
+        "crypto investment",
+        "bitcoin returns",
+        "nft profits"
+      ],
+      "weight": 8,
+      "category": "CIS",
+      "example": "Our exclusive offshore fund gives 30% annual returns"
+    },
+    {
+      "name": "Unrealistic Returns",
+      "description": "Returns promised far above market rates",
+      "keywords": [
+        "40%",
+        "50%",
+        "60%",
+        "100%",
+        "double money",
+        "triple returns",
+        "10x returns",
+        "1000 percent",
+        "overnight profit",
+        "daily profit",
+        "weekly returns"
+      ],
+      "weight": 9,
+      "category": "CIS",
+      "example": "Double your money in 30 days with our AI trading system"
+    },
+    {
+      "name": "Direct Transfer Request",
+      "description": "Asking investor to transfer funds to personal account",
+      "keywords": [
+        "wire transfer",
+        "transfer directly",
+        "send money to",
+        "personal account",
+        "bank transfer today",
+        "pay cash",
+        "paytm transfer",
+        "upi transfer to"
+      ],
+      "weight": 9,
+      "category": "BROKER",
+      "example": "Wire transfer your funds directly to our CEO personal account today"
+    },
+    {
+      "name": "Fake Finfluencer",
+      "description": "Unregistered social media influencer charging for tips",
+      "keywords": [
+        "telegram channel",
+        "whatsapp group",
+        "join our group",
+        "subscription fee",
+        "monthly fee",
+        "paid membership",
+        "vip group",
+        "exclusive group",
+        "premium tips"
+      ],
+      "weight": 8,
+      "category": "IA",
+      "example": "Join our VIP Telegram group for Rs 999/month for daily stock tips"
+    },
+    {
+      "name": "No Risk Claims",
+      "description": "Claims of zero risk investments",
+      "keywords": [
+        "no risk",
+        "zero risk",
+        "100 percent safe",
+        "capital protected",
+        "principal protected",
+        "risk free",
+        "safe investment",
+        "loss proof"
+      ],
+      "weight": 9,
+      "category": "CIS",
+      "example": "Our fund is 100% safe with zero risk and guaranteed returns"
+    },
+    {
+      "name": "Social Proof Manipulation",
+      "description": "Using fake testimonials or social proof to convince investors",
+      "keywords": [
+        "thousands of investors",
+        "lakhs of customers",
+        "join 50000 members",
+        "our members earned",
+        "testimonials",
+        "success stories",
+        "real investors",
+        "verified profits"
+      ],
+      "weight": 6,
+      "category": "CIS",
+      "example": "Join 50,000 satisfied investors who have already made crores with us"
+    }
+  ],
+  "metadata": {
+    "total_patterns": 12,
+    "last_updated": "2026-04-27",
+    "source": "SEBI enforcement orders and investigation records",
+    "version": "1.0"
+  }
+}

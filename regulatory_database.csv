@@ -1,0 +1,101 @@
+name,registration,regulator,status,notes
+HDFC Asset Management Company Ltd,INP000002497,SEBI,REGISTERED,Clean compliance history. Listed AMC. SEBI registered mutual fund.
+SBI Mutual Fund,INP000000235,SEBI,REGISTERED,Clean compliance history. Government backed mutual fund.
+ICICI Prudential AMC,INP000000373,SEBI,REGISTERED,Clean compliance history. Listed AMC. Strong track record.
+Axis Mutual Fund,INP000000094,SEBI,REGISTERED,Clean compliance history. Listed AMC.
+Kotak Mahindra AMC,INP000000581,SEBI,REGISTERED,Clean compliance history. Listed AMC.
+Nippon India Mutual Fund,INP000000357,SEBI,REGISTERED,Clean compliance history. Formerly Reliance Mutual Fund.
+Aditya Birla Sun Life AMC,INP000000372,SEBI,REGISTERED,Clean compliance history. Part of Aditya Birla Group.
+UTI Asset Management Company,INP000000094,SEBI,REGISTERED,Clean compliance history. Government owned AMC.
+DSP Investment Managers,INP000000253,SEBI,REGISTERED,Clean compliance history. Part of DSP Group.
+Franklin Templeton Mutual Fund,INP000000982,SEBI,REGISTERED,Clean compliance history. Global asset manager.
+Mirae Asset Investment Managers,INP000000647,SEBI,REGISTERED,Clean compliance history. Korean asset manager with India operations.
+Canara Robeco AMC,INP000000548,SEBI,REGISTERED,Clean compliance history. Joint venture with Canara Bank.
+Tata Asset Management,INP000000312,SEBI,REGISTERED,Clean compliance history. Part of Tata Group.
+IDFC Asset Management,INP000000743,SEBI,REGISTERED,Clean compliance history. Infrastructure focused AMC.
+Sundaram Asset Management,INP000000421,SEBI,REGISTERED,Clean compliance history. South India based AMC.
+L&T Investment Management,INP000000334,SEBI,REGISTERED,Clean compliance history. Part of L&T Group.
+Invesco Asset Management India,INP000000512,SEBI,REGISTERED,Clean compliance history. Global asset manager.
+Motilal Oswal AMC,INP000000678,SEBI,REGISTERED,Clean compliance history. India focused AMC.
+PGIM India AMC,INP000000891,SEBI,REGISTERED,Clean compliance history. Global asset manager.
+Edelweiss AMC,INP000000234,SEBI,REGISTERED,Clean compliance history. Edelweiss Group AMC.
+Zerodha Broking Ltd,INZ000031633,SEBI,REGISTERED,SEBI registered stockbroker. Discount broker. Clean compliance.
+ICICI Securities Ltd,INZ000004375,SEBI,REGISTERED,SEBI registered stockbroker. Full service broker. Listed company.
+HDFC Securities Ltd,INZ000001233,SEBI,REGISTERED,SEBI registered stockbroker. Part of HDFC Group.
+Kotak Securities Ltd,INZ000004109,SEBI,REGISTERED,SEBI registered stockbroker. Part of Kotak Group.
+Angel One Ltd,INZ000001546,SEBI,REGISTERED,SEBI registered stockbroker. Listed company. Clean compliance.
+Sharekhan Ltd,INZ000017230,SEBI,REGISTERED,SEBI registered stockbroker. Full service broker.
+Upstox (RKSV Securities),INZ000031631,SEBI,REGISTERED,SEBI registered stockbroker. Discount broker.
+5paisa Capital Ltd,INZ000000132,SEBI,REGISTERED,SEBI registered stockbroker. Discount broker.
+Groww (Nextbillion Technology),INZ000018931,SEBI,REGISTERED,SEBI registered stockbroker. Digital platform.
+Paytm Money Ltd,INZ000000654,SEBI,REGISTERED,SEBI registered. Digital investment platform.
+Bajaj Finance Ltd,INZ000012345,SEBI,REGISTERED,RBI and SEBI registered NBFC. Listed company.
+Muthoot Finance Ltd,INZ000023456,SEBI,REGISTERED,RBI registered NBFC. Listed company. Gold loan specialist.
+Manappuram Finance Ltd,INZ000034567,SEBI,REGISTERED,RBI registered NBFC. Listed company. Gold loan specialist.
+IIFL Finance Ltd,INZ000045678,SEBI,REGISTERED,SEBI and RBI registered. Listed NBFC.
+Shriram Finance Ltd,INZ000056789,SEBI,REGISTERED,RBI registered NBFC. Listed company.
+Aditya Birla Finance Ltd,INZ000067890,SEBI,REGISTERED,RBI registered NBFC. Part of Aditya Birla Group.
+Tata Capital Financial Services,INZ000078901,SEBI,REGISTERED,RBI registered NBFC. Part of Tata Group.
+L&T Finance Ltd,INZ000089012,SEBI,REGISTERED,RBI registered NBFC. Part of L&T Group.
+Mahindra Finance Ltd,INZ000090123,SEBI,REGISTERED,RBI registered NBFC. Part of Mahindra Group.
+Cholamandalam Investment and Finance,INZ000012340,SEBI,REGISTERED,RBI registered NBFC. Listed company.
+NSE (National Stock Exchange),MCX000123456,SEBI,REGISTERED,SEBI recognized stock exchange. Market infrastructure institution.
+BSE (Bombay Stock Exchange),BSE000234567,SEBI,REGISTERED,SEBI recognized stock exchange. Oldest stock exchange in Asia.
+CDSL (Central Depository Services),CDSL00345678,SEBI,REGISTERED,SEBI recognized depository. Market infrastructure institution.
+NSDL (National Securities Depository),NSDL00456789,SEBI,REGISTERED,SEBI recognized depository. Market infrastructure institution.
+CRISIL Ltd,CRA000123456,SEBI,REGISTERED,SEBI registered credit rating agency.
+ICRA Ltd,CRA000234567,SEBI,REGISTERED,SEBI registered credit rating agency.
+CARE Ratings Ltd,CRA000345678,SEBI,REGISTERED,SEBI registered credit rating agency.
+India Infoline Ltd (IIFL),INZ000011111,SEBI,REGISTERED,SEBI registered stockbroker and investment adviser.
+Geojit Financial Services Ltd,INZ000022222,SEBI,REGISTERED,SEBI registered stockbroker. Kerala based.
+Anand Rathi Wealth Ltd,INZ000033333,SEBI,REGISTERED,SEBI registered wealth management company. Listed.
+Wealth Multiplier India Pvt Ltd,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Unregistered CIS scheme. Promises guaranteed returns. Under SEBI investigation.
+CryptoGold India,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Fake cryptocurrency scheme. No regulatory registration anywhere.
+QuickReturn Investments,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Promises guaranteed returns. Multiple investor complaints.
+SafeGold Advisors,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Impersonates SEBI approved entity. No registration found.
+AI Trading Robot India,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Fake AI trading bot. No regulatory registration. Guaranteed return claims.
+SEBI Approved Scheme 2024,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Uses fake SEBI approval claims. No such scheme exists in SEBI records.
+RBI Guaranteed Returns Fund,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Uses fake RBI guarantee claims. RBI does not guarantee any investment returns.
+India Profit Multiplier,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Unregistered investment scheme. Promises unrealistic returns.
+Sure Shot Returns Ltd,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Unregistered entity. Name designed to sound legitimate.
+Daily Profit Club India,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Unregistered entity. Targets retail investors through WhatsApp.
+Bitcoin Wealth India,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Fake cryptocurrency investment. No SEBI or RBI registration.
+Forex Magic Profits,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Unregistered forex trading scheme. Illegal in India.
+Stock Market Guru Tips,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Unregistered investment adviser. Sells unverified stock tips.
+Guaranteed Income Fund India,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. No investment fund can guarantee income. Classic CIS fraud.
+Celebrity Investment Club,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Uses celebrity names without permission. Fake endorsements.
+PM Modi Investment Scheme,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Misuses PM name. Government does not run investment schemes.
+Government Approved Returns Fund,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. No government approved investment returns scheme exists.
+SEBI Chairman Endorsed Fund,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. SEBI Chairman does not endorse any private fund.
+RBI Digital Currency Profits,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. RBI does not offer digital currency investment profits.
+WhatsApp Investment Group Alpha,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Unregistered scheme operating through WhatsApp groups.
+Telegram Profit Channel India,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Unregistered scheme operating through Telegram channels.
+Instagram Trader Pro India,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Unregistered scheme using Instagram for promotion.
+YouTube Investment Expert India,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Unregistered scheme using YouTube for promotion.
+Viral Investment Scheme 2024,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Viral social media investment scheme. No regulatory backing.
+Double Money in 30 Days,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. No legitimate investment can double money in 30 days.
+Triple Returns Guaranteed Fund,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. No legitimate investment guarantees triple returns.
+No Risk High Return Scheme,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. No investment is zero risk. Classic fraud language.
+Retire Rich Fast India,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Unrealistic retirement promises. Unregistered entity.
+Crorepati Scheme India,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Promises of becoming crorepati quickly. Unregistered.
+Secret Stock Tips India,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Unregistered entity selling so-called secret stock tips.
+Insider Trading Club India,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Insider trading is illegal. This entity facilitates it.
+Hot Tips Investment Group,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Unregistered investment tips provider.
+Pump and Profit India,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Pump and dump scheme. Manipulates stock prices.
+Social Media Investment Guru,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Unregistered adviser using social media for promotion.
+Fake SEBI Advisory Services,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Fake SEBI advisory. SEBI does not give investment advice.
+Copy Trading Robot India,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Unregistered copy trading service. No SEBI registration.
+NFT Profit Scheme India,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. NFT investment scheme. No regulatory registration.
+Crypto Pyramid India,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Crypto pyramid scheme. Classic Ponzi structure.
+Ponzi Returns Fund,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Classic Ponzi scheme structure. No regulatory backing.
+Multi Level Marketing Finance,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Multi level marketing masquerading as investment scheme.
+Chit Fund Digital India,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Unregistered chit fund operating digitally.
+Unregistered Portfolio Manager X,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Unregistered portfolio manager. Illegal to manage funds without registration.
+Fake Mutual Fund Scheme Z,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Fake mutual fund. No SEBI AMC registration.
+Impersonation Advisors India,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Impersonates regulated entity. Fraud operation.
+Ghost Investment Company,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Shell company with no regulatory registration.
+Zero Risk Maximum Returns,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Zero risk claims are always fraudulent. Unregistered.
+Overnight Millionaire Scheme,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Overnight millionaire promises are classic fraud signals.
+VIP Investment Club India,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. VIP investment clubs are unregistered and fraudulent.
+Exclusive Profit Circle India,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Exclusive profit circles are unregistered fraud schemes.
+Limited Slots Investment Offer,NONE,UNREGISTERED,NOT REGISTERED,FRAUD ALERT. Limited slots urgency is a classic fraud pressure tactic.

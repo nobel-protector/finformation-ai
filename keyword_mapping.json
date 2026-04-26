@@ -1,0 +1,164 @@
+{
+  "GENERAL": {
+    "label": "AI Fraud and Deepfakes",
+    "keywords": {
+      "video": 10,
+      "youtube": 10,
+      "deepfake": 10,
+      "instagram": 8,
+      "audio": 8,
+      "voice clone": 10,
+      "fake video": 10,
+      "celebrity": 7,
+      "rbi governor": 9,
+      "sebi chairman": 9,
+      "whatsapp video": 8,
+      "ai generated": 10,
+      "manipulated": 8,
+      "synthetic": 7
+    }
+  },
+  "MF": {
+    "label": "Mutual Funds",
+    "keywords": {
+      "mutual fund": 10,
+      "amc": 9,
+      "sip": 9,
+      "amfi": 10,
+      "flexi cap": 9,
+      "nfo": 8,
+      "nav": 8,
+      "fund house": 9,
+      "elss": 8,
+      "debt fund": 8,
+      "equity fund": 8,
+      "hybrid fund": 8,
+      "index fund": 8,
+      "asset management": 9,
+      "fund manager": 7,
+      "scheme": 6,
+      "units": 6,
+      "redemption": 7,
+      "dividend": 6,
+      "growth option": 6
+    }
+  },
+  "BROKER": {
+    "label": "Stock Brokers",
+    "keywords": {
+      "broker": 10,
+      "zerodha": 10,
+      "upstox": 10,
+      "angel one": 10,
+      "demat": 9,
+      "trading account": 9,
+      "bse member": 9,
+      "nse member": 9,
+      "stockbroker": 10,
+      "buy sell shares": 8,
+      "5paisa": 9,
+      "sharekhan": 9,
+      "groww": 8,
+      "paytm money": 8,
+      "contract note": 8,
+      "margin trading": 7,
+      "intraday": 7,
+      "delivery": 6
+    }
+  },
+  "PMS": {
+    "label": "Portfolio Management Services",
+    "keywords": {
+      "portfolio manager": 10,
+      "pms": 10,
+      "portfolio management": 10,
+      "wealth manager": 8,
+      "separately managed": 9,
+      "discretionary": 8,
+      "non discretionary": 8,
+      "50 lakh": 9,
+      "high net worth": 7,
+      "hnw": 7,
+      "portfolio service": 8
+    }
+  },
+  "RA": {
+    "label": "Research Analysts",
+    "keywords": {
+      "research analyst": 10,
+      "stock tip": 10,
+      "buy this stock": 9,
+      "target price": 8,
+      "multibagger": 9,
+      "smallcap tip": 9,
+      "telegram tips": 9,
+      "paid tips": 10,
+      "stock recommendation": 9,
+      "analyst report": 8,
+      "price target": 7,
+      "technical analysis": 6,
+      "fundamental analysis": 6,
+      "research report": 8
+    }
+  },
+  "IA": {
+    "label": "Investment Advisers",
+    "keywords": {
+      "investment adviser": 10,
+      "finfluencer": 10,
+      "financial advice": 9,
+      "advisory": 8,
+      "financial planner": 9,
+      "fee based advice": 10,
+      "sebi registered adviser": 10,
+      "financial consultant": 8,
+      "wealth advisor": 8,
+      "investment guidance": 7,
+      "portfolio advice": 7,
+      "subscription fee": 8,
+      "paid group": 9,
+      "whatsapp group fee": 9
+    }
+  },
+  "AIF": {
+    "label": "Alternative Investment Funds",
+    "keywords": {
+      "aif": 10,
+      "alternative investment": 10,
+      "hedge fund": 10,
+      "venture capital": 9,
+      "private equity": 9,
+      "angel fund": 8,
+      "category 3 fund": 9,
+      "category 2 fund": 9,
+      "category 1 fund": 9,
+      "pooled vehicle": 8,
+      "accredited investor": 8,
+      "1 crore": 7,
+      "sophisticated investor": 8
+    }
+  },
+  "CIS": {
+    "label": "Collective Investment Schemes",
+    "keywords": {
+      "guaranteed returns": 10,
+      "assured returns": 10,
+      "collective investment": 10,
+      "cis": 10,
+      "pooled funds": 8,
+      "chit fund": 8,
+      "assured income": 9,
+      "fixed return": 9,
+      "guaranteed profit": 10,
+      "no risk": 9,
+      "100 percent safe": 9,
+      "double money": 9,
+      "triple returns": 9,
+      "unregistered scheme": 10,
+      "limited slots": 8,
+      "act now": 7,
+      "offer closes": 8,
+      "urgent investment": 8
+    }
+  }
+}
