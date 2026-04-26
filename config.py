@@ -28,11 +28,11 @@ CONFIG = {
 
     # File paths
     "paths": {
-        "database":         "/content/regulatory_database.csv",
-        "modules":          "/content/modules_data.json",
-        "keyword_mapping":  "/content/keyword_mapping.json",
-        "fraud_patterns":   "/content/fraud_patterns.json",
-        "feedback_log":     "/content/drive/MyDrive/Colab Notebooks/Project Finformation/feedback_log.csv"
+        "database":         "regulatory_database.csv",
+        "modules":          "modules/",
+        "keyword_mapping":  "keyword_mapping.json",
+        "fraud_patterns":   "fraud_patterns.json",
+        "feedback_log":     "feedback_log.csv"
     },
 
     # Risk labels
