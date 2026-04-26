@@ -1,0 +1,153 @@
+{
+  "title": "Stock Brokers",
+  "icon": "📈",
+  "color": "#2a7de1",
+  "description": "Stock Brokers are intermediaries who execute buy and sell orders in securities on behalf of investors on recognized stock exchanges like NSE and BSE. All stock brokers in India must be registered with SEBI and must be members of at least one recognised stock exchange.\n\nIndia has a well-regulated broking industry with hundreds of SEBI registered brokers ranging from full-service brokers like ICICI Securities and HDFC Securities to discount brokers like Zerodha, Upstox, and Angel One. All are subject to strict SEBI regulations on client fund handling, reporting, and conduct.\n\nFraudulent brokers operate unauthorised trading platforms, promise guaranteed trading profits, misuse client funds, or run bucket shop operations where trades are never actually executed on exchanges. With AI-generated content, fraudsters can now create professional-looking fake broker platforms and trading dashboards to deceive investors.",
+  "key_facts": [
+    "All stock brokers must be SEBI registered and exchange members",
+    "Brokers must maintain client funds in separate designated accounts",
+    "Contract notes must be issued for every trade executed",
+    "No broker can legally guarantee trading profits",
+    "Investors can verify broker registration on SEBI website",
+    "Legitimate brokers are members of NSE or BSE — verifiable on exchange websites",
+    "Broker's trading platform must be exchange approved",
+    "Investors can file complaints at SEBI SCORES or exchange investor grievance cells"
+  ],
+  "red_flags": [
+    "Broker not found in SEBI registered stock brokers list",
+    "Not a member of NSE or BSE",
+    "Promises guaranteed profits from trading — illegal",
+    "Asks you to trade on unofficial app or platform not linked to exchange",
+    "Requests fund transfer to personal or unofficial account",
+    "Excessive portfolio churning to generate commissions",
+    "No contract notes issued after trades",
+    "Unsolicited calls with hot stock tips requiring immediate action",
+    "Platform shows profits but withdrawal is blocked or delayed",
+    "Broker claims special algorithm or AI that guarantees profits",
+    "No physical office or verifiable address",
+    "Pressure to invest more after initial fake profits shown"
+  ],
+  "how_to_verify": [
+    "Go to sebi.gov.in → Registers → Stock Brokers",
+    "Search broker name or SEBI registration number",
+    "Verify NSE membership at nseindia.com → Members → Trading Members",
+    "Verify BSE membership at bseindia.com → Members",
+    "Check if broker's trading platform is exchange-approved",
+    "Verify broker's SEBI registration number on their official website",
+    "Check SEBI SCORES for investor complaints against the broker",
+    "Call exchange investor helpline: NSE 1800 266 0053, BSE 1800 22 6663"
+  ],
+  "real_case": "SEBI has taken action against multiple entities running fake trading platforms showing artificial profits to lure investors. Investors were shown impressive gains on the platform but when they tried to withdraw, funds were blocked. The entities were not registered brokers and had no exchange membership.",
+  "quiz": [
+    {
+      "question": "A stock broker guarantees 20% monthly profit from trading. This is:",
+      "options": [
+        "A legitimate offer from an expert trader",
+        "A fraud — no broker can legally guarantee trading profits",
+        "Normal for skilled traders",
+        "Possible only with AI-based trading"
+      ],
+      "correct": 1,
+      "explanation": "No SEBI registered broker can guarantee trading profits. Stock markets carry inherent risk and no returns can be guaranteed."
+    },
+    {
+      "question": "Where do you verify if a stock broker is SEBI registered?",
+      "options": [
+        "Their own trading app",
+        "SEBI official registry at sebi.gov.in → Stock Brokers",
+        "Google Play Store reviews",
+        "Friends who use the broker"
+      ],
+      "correct": 1,
+      "explanation": "Always verify on SEBI's official Stock Brokers registry. This is the only reliable source."
+    },
+    {
+      "question": "A broker asks you to transfer trading funds to their personal savings account. What should you do?",
+      "options": [
+        "Transfer — it is more convenient than their company account",
+        "Transfer half to test",
+        "Refuse — client funds must go to designated client accounts only",
+        "Ask for a receipt and then transfer"
+      ],
+      "correct": 2,
+      "explanation": "Client funds must always go to properly designated accounts. Transfer to personal accounts is a clear fraud signal — report immediately."
+    },
+    {
+      "question": "What is a contract note and why is it important?",
+      "options": [
+        "A contract you sign before opening trading account",
+        "An official document issued after every trade confirming transaction details — mandatory by SEBI",
+        "A note listing the broker's charges only",
+        "A contract guaranteeing trading returns"
+      ],
+      "correct": 1,
+      "explanation": "Contract notes are mandatory SEBI requirement after every trade. They prove your trade was executed. No contract note means the trade may not have happened."
+    },
+    {
+      "question": "You are shown impressive profits on a broker's platform but cannot withdraw your funds. What is likely happening?",
+      "options": [
+        "Technical issue — wait a few days",
+        "Bank processing delay",
+        "Classic fraud — fake profits shown to lure more investment, funds may never be recoverable",
+        "Tax clearance required first"
+      ],
+      "correct": 2,
+      "explanation": "This is a classic investment fraud pattern. Report immediately to SEBI and cybercrime.gov.in. Do not invest more money."
+    },
+    {
+      "question": "A broker claims their AI algorithm guarantees 15% monthly returns from algorithmic trading. What should you do?",
+      "options": [
+        "Invest — AI trading is reliable",
+        "Invest a small amount to test the algorithm",
+        "Verify SEBI registration and reject if they guarantee returns",
+        "Ask for 6 months track record before investing"
+      ],
+      "correct": 2,
+      "explanation": "No trading algorithm can guarantee returns. Verify SEBI registration first and reject any guaranteed return claim regardless of technology used."
+    },
+    {
+      "question": "Which of these is a SEBI registered legitimate discount broker?",
+      "options": [
+        "QuickProfit Trading India",
+        "Zerodha Broking Ltd",
+        "AI Trader Pro India",
+        "InstantReturns Securities"
+      ],
+      "correct": 1,
+      "explanation": "Zerodha Broking Ltd is a SEBI registered discount broker with registration INZ000031633. Always verify on SEBI registry."
+    },
+    {
+      "question": "What should you do if a broker excessively buys and sells in your account without your instructions?",
+      "options": [
+        "It is normal broker activity",
+        "Thank them for active management",
+        "Report to SEBI — this is churning and is a regulatory violation",
+        "Ask them to continue if profits are shown"
+      ],
+      "correct": 2,
+      "explanation": "Excessive trading without client instructions is called churning and violates SEBI regulations. Report to SEBI SCORES."
+    },
+    {
+      "question": "Investor grievance helpline for NSE related complaints is:",
+      "options": [
+        "1800 425 4242",
+        "1800 266 0053",
+        "1800 180 1111",
+        "1800 22 6663"
+      ],
+      "correct": 1,
+      "explanation": "NSE investor helpline is 1800 266 0053. BSE investor helpline is 1800 22 6663."
+    },
+    {
+      "question": "A broker's trading platform is not linked to NSE or BSE. This means:",
+      "options": [
+        "They use an international exchange",
+        "They have a private exchange license",
+        "This is a serious red flag — all legitimate brokers must be exchange members",
+        "They are a new broker building their own exchange"
+      ],
+      "correct": 2,
+      "explanation": "All legitimate brokers must be members of SEBI recognised exchanges. A platform not linked to NSE or BSE is almost certainly fraudulent."
+    }
+  ]
+}

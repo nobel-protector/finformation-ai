@@ -1,0 +1,153 @@
+{
+  "title": "Collective Investment Schemes (CIS)",
+  "icon": "🚨",
+  "color": "#c0392b",
+  "description": "A Collective Investment Scheme (CIS) is any scheme that pools contributions from investors and manages or deploys those contributions for profit. In India, all CIS must be registered with SEBI under the SEBI (Collective Investment Schemes) Regulations, 1999. Operating a CIS without SEBI registration is a criminal offence under the SEBI Act.\n\nUnregistered CIS schemes are among the most devastating frauds targeting retail investors in India. They typically promise unusually high guaranteed returns, claim SEBI or government approval, and collect funds before disappearing. The Rs 200-crore fraud detected by SEBI Indore is a classic example — an unregistered entity solicited funds through social media promising guaranteed returns with no regulatory backing.\n\nThe scale of the problem is enormous. SEBI has taken enforcement action against hundreds of unregistered CIS operators across India. Many target investors in Tier 2 and Tier 3 cities who rely on social media and informal networks for investment information. AI-generated content has dramatically increased the reach and believability of CIS frauds.",
+  "key_facts": [
+    "All CIS must be registered with SEBI under CIS Regulations 1999",
+    "No legitimate investment scheme can guarantee returns of any kind",
+    "Operating unregistered CIS is a criminal offence under SEBI Act",
+    "Minimum net worth requirement for CIS operators is Rs 5 crore",
+    "CIS operators must publish audited accounts and annual reports",
+    "SEBI has recovered funds from unregistered CIS operators through court orders",
+    "Investors can file complaints on SEBI SCORES at scores.sebi.gov.in",
+    "SEBI toll free helpline: 1800 266 7575"
+  ],
+  "red_flags": [
+    "Guaranteed or assured returns of any percentage whatsoever",
+    "Promises of returns above 12% annually — suspicious above market rates",
+    "No SEBI registration number provided or verifiable",
+    "Operator asks for direct bank transfer to personal or unverified account",
+    "Scheme promoted exclusively through WhatsApp, Telegram, or social media",
+    "No physical office address or verifiable business registration",
+    "Artificial urgency — limited slots, offer closes tonight, only 50 investors",
+    "Claims of SEBI approval, RBI backing, or government guarantee",
+    "Operator cannot provide audited financial statements",
+    "Returns promised are significantly higher than bank FD or mutual fund returns",
+    "No formal investment agreement or documentation provided",
+    "Pressure to recruit other investors for additional returns"
+  ],
+  "how_to_verify": [
+    "Go to sebi.gov.in",
+    "Click Registers → Collective Investment Schemes",
+    "Search for the exact scheme or operator name",
+    "If not listed — the scheme is UNREGISTERED and operating illegally",
+    "Check SEBI enforcement orders at sebi.gov.in/enforcement",
+    "Search the operator name in SEBI orders database",
+    "Call SEBI toll free: 1800 266 7575 to verify any scheme",
+    "File complaint at scores.sebi.gov.in if you suspect fraud"
+  ],
+  "real_case": "In a case detected by SEBI Indore Local Office, an unregistered entity collected over Rs 200 crore from retail investors through social media, promising guaranteed returns. The entity had no SEBI registration. Finformation.ai's Track B would have flagged this entity as unregistered instantly — before any investor transferred funds.",
+  "quiz": [
+    {
+      "question": "An investment scheme promises 30% guaranteed annual returns and claims SEBI approval. What should you do first?",
+      "options": [
+        "Invest quickly before the offer expires",
+        "Verify the scheme on SEBI official CIS registry",
+        "Ask friends who have invested with them",
+        "Transfer a small amount to test"
+      ],
+      "correct": 1,
+      "explanation": "Always verify on SEBI registry first. No legitimate scheme can guarantee returns of any kind."
+    },
+    {
+      "question": "Under which SEBI regulation must all CIS be registered?",
+      "options": [
+        "SEBI (Mutual Funds) Regulations 1996",
+        "SEBI (Collective Investment Schemes) Regulations 1999",
+        "SEBI (Portfolio Managers) Regulations 2020",
+        "SEBI (Investment Advisers) Regulations 2013"
+      ],
+      "correct": 1,
+      "explanation": "All CIS must be registered under SEBI (Collective Investment Schemes) Regulations 1999."
+    },
+    {
+      "question": "Operating an unregistered CIS in India is:",
+      "options": [
+        "A civil matter only",
+        "Allowed if returns are below 15%",
+        "A criminal offence under the SEBI Act",
+        "Permitted for small schemes below Rs 10 crore"
+      ],
+      "correct": 2,
+      "explanation": "Operating an unregistered CIS is a criminal offence under the SEBI Act, regardless of size."
+    },
+    {
+      "question": "A CIS operator says they are exempt from SEBI registration because they are a small scheme. This is:",
+      "options": [
+        "Correct — small schemes are exempt",
+        "Correct — below Rs 100 crore is exempt",
+        "False — all CIS must be registered regardless of size",
+        "Correct — state government registered schemes are exempt"
+      ],
+      "correct": 2,
+      "explanation": "There is no size exemption. All CIS operating in India must be registered with SEBI."
+    },
+    {
+      "question": "Which of these is NOT a red flag for a CIS fraud?",
+      "options": [
+        "Guaranteed 40% returns",
+        "SEBI registration number provided and verifiable",
+        "Scheme promoted only on WhatsApp",
+        "Operator asks for direct bank transfer"
+      ],
+      "correct": 1,
+      "explanation": "A verifiable SEBI registration number is a positive sign. All the others are classic fraud signals."
+    },
+    {
+      "question": "Where do you verify if a CIS is registered with SEBI?",
+      "options": [
+        "Google search",
+        "The scheme's own website",
+        "SEBI official registry at sebi.gov.in → Registers → CIS",
+        "NSE website"
+      ],
+      "correct": 2,
+      "explanation": "The only reliable source is SEBI's official registry. Never trust the scheme's own website for verification."
+    },
+    {
+      "question": "An investor receives a WhatsApp message: 'Invest Rs 50,000 today, get Rs 1,00,000 in 6 months — SEBI approved guaranteed scheme.' What is the first red flag?",
+      "options": [
+        "The investment amount is too low",
+        "Guaranteed returns are promised — illegal under SEBI rules",
+        "The timeframe is 6 months",
+        "The message came on WhatsApp"
+      ],
+      "correct": 1,
+      "explanation": "Guaranteed returns of any kind are illegal. This alone marks it as fraud regardless of any other claims."
+    },
+    {
+      "question": "What should you do if you have already invested in a suspected unregistered CIS?",
+      "options": [
+        "Wait and hope for returns",
+        "Invest more to average your cost",
+        "File a complaint on SEBI SCORES immediately",
+        "Ask the operator for your money back privately"
+      ],
+      "correct": 2,
+      "explanation": "File a complaint on SEBI SCORES at scores.sebi.gov.in immediately. Early action increases the chance of fund recovery."
+    },
+    {
+      "question": "A CIS operator claims their scheme is registered with the state government, not SEBI. This means:",
+      "options": [
+        "The scheme is legitimate under state law",
+        "State registration is equivalent to SEBI registration",
+        "State registration does not exempt a scheme from SEBI registration requirements",
+        "The scheme is only for state residents and hence exempt"
+      ],
+      "correct": 2,
+      "explanation": "State government registration does not substitute SEBI registration. All CIS operating in India must be SEBI registered."
+    },
+    {
+      "question": "SEBI's toll free helpline number to verify any investment scheme is:",
+      "options": [
+        "1800 11 0001",
+        "1800 266 7575",
+        "1800 180 1111",
+        "1800 425 4242"
+      ],
+      "correct": 1,
+      "explanation": "SEBI toll free helpline is 1800 266 7575. You can call to verify any scheme or file a complaint."
+    }
+  ]
+}

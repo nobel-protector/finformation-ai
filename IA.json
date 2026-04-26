@@ -1,0 +1,153 @@
+{
+  "title": "Investment Advisers (IA)",
+  "icon": "🧑‍💼",
+  "color": "#7d3c98",
+  "description": "Investment Advisers provide personalised investment advice to clients for a fee. In India, anyone who provides investment advice for a fee must be registered with SEBI under the SEBI (Investment Advisers) Regulations 2013. This applies to individual advisers, firms, and organisations.\n\nThe unregistered investment adviser problem in India is massive. India has over 1 lakh social media finfluencers giving investment advice — the vast majority without SEBI IA registration. Many charge subscription fees for WhatsApp groups, Telegram channels, or online courses giving stock recommendations. This is illegal under SEBI regulations.\n\nSEBI has taken significant enforcement action against unregistered IAs in recent years, including actions against prominent social media personalities. However, with AI-generated content allowing anyone to appear as a credible financial expert, the problem continues to grow.",
+  "key_facts": [
+    "All entities charging fees for investment advice must be SEBI IA registered",
+    "Regulated under SEBI (Investment Advisers) Regulations 2013",
+    "Individual IAs must have minimum qualification of graduate degree plus financial certification",
+    "IAs must do formal risk profiling of every client before advice",
+    "IAs must maintain proper records of advice given",
+    "IAs cannot receive commissions from products they recommend",
+    "India has over 1 lakh unregistered finfluencers giving investment advice illegally",
+    "SEBI has BASL (BSE Administration and Supervision Ltd) to oversee IAs"
+  ],
+  "red_flags": [
+    "Adviser charges any fee for investment advice without SEBI IA registration",
+    "Finfluencer promotes specific stocks or funds in exchange for payment from issuers",
+    "Adviser promises guaranteed returns on recommended portfolio",
+    "No formal risk profiling or KYC conducted before advice",
+    "Advice delivered through WhatsApp group or Telegram channel for subscription fee",
+    "Adviser cannot provide SEBI IA registration number on request",
+    "Promises of extraordinary returns from advice — 10x, 20x in months",
+    "No formal advisory agreement or engagement letter provided",
+    "Adviser receives commissions from products they recommend without disclosure",
+    "Advice is generic and not personalised to your financial situation",
+    "Past performance claims without SEBI compliant track record disclosure",
+    "Pressure to act immediately on recommendations without time to think"
+  ],
+  "how_to_verify": [
+    "Go to sebi.gov.in → Registers → Investment Advisers",
+    "Search the adviser name or firm name",
+    "Verify SEBI IA registration number and validity date",
+    "Check BASL registry for IA registrations",
+    "Ask the adviser directly for their SEBI registration certificate",
+    "Verify their registration on SEBI website before paying any fee",
+    "Check SEBI enforcement orders for any actions against the adviser",
+    "Call SEBI helpline 1800 266 7575 to verify IA registration"
+  ],
+  "real_case": "SEBI has taken action against multiple prominent social media personalities and Telegram channel operators charging subscription fees for investment tips without SEBI IA registration. In several cases, the operators were also receiving undisclosed commissions from companies whose stocks they were recommending — a practice known as paid promotion or pump and dump.",
+  "quiz": [
+    {
+      "question": "A popular Instagram finfluencer charges Rs 5000/month for a stock tips group but has no SEBI registration. This is:",
+      "options": [
+        "Legal because they are popular and successful",
+        "Legal if they add disclaimers",
+        "Illegal — charging fees for investment advice requires SEBI IA registration",
+        "Legal for social media — regulations do not apply online"
+      ],
+      "correct": 2,
+      "explanation": "Charging fees for investment advice without SEBI IA registration is illegal regardless of platform, popularity, or disclaimers."
+    },
+    {
+      "question": "Under which regulation must all Investment Advisers be registered?",
+      "options": [
+        "SEBI (Portfolio Managers) Regulations 2020",
+        "SEBI (Investment Advisers) Regulations 2013",
+        "SEBI (Research Analysts) Regulations 2014",
+        "SEBI (Mutual Funds) Regulations 1996"
+      ],
+      "correct": 1,
+      "explanation": "All Investment Advisers must be registered under SEBI (Investment Advisers) Regulations 2013."
+    },
+    {
+      "question": "What must a legitimate Investment Adviser do before giving personalised advice?",
+      "options": [
+        "Show their past returns record",
+        "Do formal risk profiling and KYC of the client",
+        "Get a written guarantee from the client",
+        "Collect fee upfront"
+      ],
+      "correct": 1,
+      "explanation": "Formal risk profiling and KYC are mandatory before personalised advice. Without this, the advice is not regulatory compliant."
+    },
+    {
+      "question": "Can a SEBI registered IA receive commissions from mutual funds or products they recommend?",
+      "options": [
+        "Yes — it is standard practice",
+        "Yes — if disclosed to the client",
+        "No — IAs cannot receive product commissions. They can only charge advisory fees from clients",
+        "Yes — up to 1% commission is allowed"
+      ],
+      "correct": 2,
+      "explanation": "SEBI registered IAs cannot receive product commissions. They operate on a fee-only model to avoid conflict of interest."
+    },
+    {
+      "question": "A Telegram channel has 50,000 subscribers and charges Rs 999/month for daily stock recommendations. They have no SEBI registration. What should you do?",
+      "options": [
+        "Subscribe — large subscriber base means they are reliable",
+        "Subscribe for 1 month to test their tips",
+        "Do not subscribe — report to SEBI as unregistered IA",
+        "Subscribe but do not follow all tips"
+      ],
+      "correct": 2,
+      "explanation": "Operating a paid stock tips service without SEBI IA registration is illegal. Report to SEBI at sebi.gov.in/enforcement."
+    },
+    {
+      "question": "What is the minimum qualification required for an individual to become a SEBI registered Investment Adviser?",
+      "options": [
+        "Class 12 pass with 5 years experience",
+        "Graduate degree plus a financial certification (like CFP, CFA, or NISM)",
+        "Any degree with 10 years experience",
+        "CA or MBA mandatory"
+      ],
+      "correct": 1,
+      "explanation": "SEBI requires minimum graduate degree plus financial certification for individual IA registration. This ensures advisers have minimum knowledge."
+    },
+    {
+      "question": "A SEBI registered IA gives you advice that results in losses. What are your options?",
+      "options": [
+        "You have no recourse — all investments carry risk",
+        "File complaint with SEBI and approach BASL for redressal",
+        "Sue the IA in consumer court only",
+        "Accept the loss as market risk"
+      ],
+      "correct": 1,
+      "explanation": "You can file complaints with SEBI and approach BASL (BSE Administration and Supervision Ltd) which oversees IA conduct and has a grievance redressal mechanism."
+    },
+    {
+      "question": "What is BASL in the context of Investment Advisers?",
+      "options": [
+        "Bureau of Asset and Securities Licensing",
+        "BSE Administration and Supervision Ltd — the body that oversees SEBI registered IAs",
+        "Board of Accredited Securities Licensees",
+        "Bureau for Adviser Standard Licensing"
+      ],
+      "correct": 1,
+      "explanation": "BASL (BSE Administration and Supervision Ltd) is the body designated by SEBI to supervise and oversee registered Investment Advisers."
+    },
+    {
+      "question": "An IA says: 'My recommendations have given 40% returns consistently for 5 years.' How should you evaluate this claim?",
+      "options": [
+        "Accept it — 5 years is a long track record",
+        "Ask for SEBI-compliant audited track record disclosure before believing any performance claims",
+        "Invest immediately — consistent track records are rare",
+        "Ask two other clients to confirm"
+      ],
+      "correct": 1,
+      "explanation": "Performance claims must be backed by SEBI-compliant audited disclosures. Never invest based on unverified verbal claims."
+    },
+    {
+      "question": "What document must a SEBI registered IA provide before starting advisory services?",
+      "options": [
+        "A simple email confirmation",
+        "A formal advisory agreement disclosing fees, services, risks, and conflicts of interest",
+        "A WhatsApp message confirming the arrangement",
+        "A receipt for fees paid"
+      ],
+      "correct": 1,
+      "explanation": "A formal advisory agreement is mandatory. It must disclose fees, services offered, risks, and any conflicts of interest."
+    }
+  ]
+}

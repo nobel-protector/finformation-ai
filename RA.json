@@ -1,0 +1,153 @@
+{
+  "title": "Research Analysts (RA)",
+  "icon": "🔬",
+  "color": "#e67e22",
+  "description": "Research Analysts prepare and publish research reports and recommendations on securities for general publication — not personalised advice. All Research Analysts in India must be registered with SEBI under the SEBI (Research Analysts) Regulations 2014.\n\nThe distinction between a Research Analyst and an Investment Adviser is important: RAs publish general research available to multiple clients, while IAs give personalised advice to specific individuals. Many fraudulent operators blur this line — operating as unregistered RAs while charging subscription fees for stock tips through Telegram channels and WhatsApp groups.\n\nPump and dump is the most common fraud involving fake RAs. Operators accumulate shares in a stock at low prices, then distribute fake research reports and tips promoting the stock, driving up the price. Once the price rises sufficiently, they sell their holdings — leaving retail investors who bought based on the fake tips with losses.",
+  "key_facts": [
+    "All Research Analysts must be registered under SEBI (Research Analysts) Regulations 2014",
+    "RAs publish general research — not personalised investment advice",
+    "RAs must disclose any holdings in recommended securities",
+    "RAs must disclose if they received payment for publishing a report",
+    "Pump and dump using fake research is a SEBI enforcement priority",
+    "RAs cannot guarantee returns from their recommendations",
+    "Research reports must include mandatory risk disclosures",
+    "SEBI has taken action against hundreds of unregistered tip providers"
+  ],
+  "red_flags": [
+    "Research analyst not registered with SEBI",
+    "Sells stock tips for a fee without SEBI RA registration",
+    "Guarantees specific returns from stock recommendations",
+    "Tips distributed through WhatsApp or Telegram for subscription",
+    "Cannot provide SEBI RA registration number on request",
+    "Recommends penny stocks or illiquid stocks with unusual urgency",
+    "Only profitable past tips shown — losses never disclosed",
+    "Charges monthly subscription for stock tips",
+    "Does not disclose own holdings in recommended stocks",
+    "Tips always coincide with the analyst promoting the stock heavily",
+    "Uses AI generated fake research reports with professional formatting",
+    "Pressure to buy quickly before the tip becomes public"
+  ],
+  "how_to_verify": [
+    "Go to sebi.gov.in → Registers → Research Analysts",
+    "Search the analyst name or firm name",
+    "Verify SEBI RA registration number and validity",
+    "Check that research reports carry the SEBI registration number",
+    "Verify through BSE or NSE if analyst is empanelled",
+    "Check SEBI enforcement orders for any actions against the analyst",
+    "Verify disclosure of holdings in recommended stocks in the report",
+    "Call SEBI helpline 1800 266 7575 to verify RA registration"
+  ],
+  "real_case": "SEBI has taken enforcement action against multiple Telegram channel operators and WhatsApp group admins charging subscription fees for stock tips without SEBI RA registration. In several cases, operators were found to have taken positions in stocks before tipping them to subscribers — a classic pump and dump — profiting at the expense of their own subscribers.",
+  "quiz": [
+    {
+      "question": "What is the difference between a Research Analyst and an Investment Adviser?",
+      "options": [
+        "There is no difference",
+        "RA publishes general research for multiple clients; IA gives personalised advice to specific individuals",
+        "RA works for institutions; IA works for retail investors only",
+        "RA charges lower fees than IA"
+      ],
+      "correct": 1,
+      "explanation": "RAs publish general research available broadly. IAs give personalised advice to specific clients. Both require separate SEBI registrations."
+    },
+    {
+      "question": "Under which regulation must Research Analysts be registered?",
+      "options": [
+        "SEBI (Investment Advisers) Regulations 2013",
+        "SEBI (Research Analysts) Regulations 2014",
+        "SEBI (Portfolio Managers) Regulations 2020",
+        "SEBI (Mutual Funds) Regulations 1996"
+      ],
+      "correct": 1,
+      "explanation": "Research Analysts must be registered under SEBI (Research Analysts) Regulations 2014."
+    },
+    {
+      "question": "What is a pump and dump scheme?",
+      "options": [
+        "A legitimate trading strategy using technical analysis",
+        "Operators buy stock, spread fake tips to inflate price, then sell — leaving retail investors with losses",
+        "A type of SEBI approved scheme",
+        "Day trading using borrowed funds"
+      ],
+      "correct": 1,
+      "explanation": "Pump and dump involves buying stock at low price, spreading fake tips to inflate it, then selling. Retail investors who buy based on the tips are left with losses."
+    },
+    {
+      "question": "A Telegram channel has been giving stock tips for 2 years and claims 85% accuracy. They have no SEBI registration. What should you do?",
+      "options": [
+        "Subscribe — track record proves reliability",
+        "Subscribe for 1 month to test",
+        "Do not subscribe and report to SEBI",
+        "Subscribe but verify each tip independently"
+      ],
+      "correct": 2,
+      "explanation": "Operating a paid stock tips service without SEBI RA registration is illegal regardless of claimed track record. Report to SEBI."
+    },
+    {
+      "question": "What must a legitimate Research Analyst disclose in their research report?",
+      "options": [
+        "Only their buy or sell recommendation",
+        "Their own holdings in the recommended security and any payments received for the report",
+        "Only their qualifications",
+        "Nothing — research is opinion and needs no disclosure"
+      ],
+      "correct": 1,
+      "explanation": "SEBI mandates disclosure of analyst holdings in recommended securities and any compensation received. This prevents conflicts of interest."
+    },
+    {
+      "question": "An operator buys shares of a small company, then sends you a research report strongly recommending that stock. This is most likely:",
+      "options": [
+        "Genuine research — they invested because they believe in the stock",
+        "A pump and dump scheme — they will sell their shares after you and others buy",
+        "Standard market practice",
+        "A sign of conviction in the stock"
+      ],
+      "correct": 1,
+      "explanation": "This is a classic pump and dump pattern. The operator profits when your buying drives up the price, then sells leaving you with losses."
+    },
+    {
+      "question": "Can a SEBI registered Research Analyst guarantee returns on their recommendations?",
+      "options": [
+        "Yes if they have more than 5 years track record",
+        "Yes for large cap stocks only",
+        "No — no RA can legally guarantee returns",
+        "Yes if the recommendation is for a short timeframe"
+      ],
+      "correct": 2,
+      "explanation": "No Research Analyst can legally guarantee returns. Markets are inherently uncertain and any return guarantee is a fraud signal."
+    },
+    {
+      "question": "What should you check in a research report to verify it is from a legitimate SEBI registered RA?",
+      "options": [
+        "Quality of the report formatting",
+        "SEBI Research Analyst registration number on the report",
+        "Number of pages in the report",
+        "Whether the analyst has appeared on TV"
+      ],
+      "correct": 1,
+      "explanation": "All legitimate research reports must carry the SEBI RA registration number. Verify this number on SEBI website."
+    },
+    {
+      "question": "A research report shows that the analyst's 10 previous recommendations all gave profits. What is the most important question to ask?",
+      "options": [
+        "What are the next 10 recommendations",
+        "Were losses on any recommendations also disclosed — cherry picking only profitable tips is misleading",
+        "How long each trade took to reach target",
+        "How many subscribers the analyst has"
+      ],
+      "correct": 1,
+      "explanation": "Showing only profitable tips without disclosing losses is misleading. SEBI regulations require fair and balanced disclosure of track record."
+    },
+    {
+      "question": "Unregistered operators offering paid stock tips through Telegram or WhatsApp in India are:",
+      "options": [
+        "Operating in a regulatory grey area",
+        "Allowed if they add standard disclaimers",
+        "Violating SEBI Research Analysts Regulations and subject to enforcement action",
+        "Allowed for educational purposes"
+      ],
+      "correct": 2,
+      "explanation": "Operating a paid stock tips service without SEBI RA registration violates SEBI Regulations. SEBI has taken multiple enforcement actions against such operators."
+    }
+  ]
+}

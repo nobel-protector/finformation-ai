@@ -1,0 +1,153 @@
+{
+  "title": "Mutual Funds",
+  "icon": "💼",
+  "color": "#1a8c4e",
+  "description": "Mutual Funds are one of the most regulated and transparent investment products in India. A mutual fund pools money from thousands of investors and invests it in a diversified portfolio of stocks, bonds, or other securities managed by professional fund managers. All mutual funds in India must be registered with SEBI and managed by SEBI-registered Asset Management Companies (AMCs).\n\nIndia currently has over 40 SEBI registered AMCs managing thousands of mutual fund schemes with a total corpus of approximately Rs 80 lakh crore. Mutual funds are subject to strict disclosure, governance, and investor protection regulations. Despite this, fraudsters create fake mutual fund schemes mimicking legitimate ones to collect investor money.\n\nKey principle every investor must remember: ALL mutual fund investments are subject to market risk. No mutual fund — not even the most conservative debt fund — can legally guarantee returns. Any scheme promising guaranteed returns is not a mutual fund.",
+  "key_facts": [
+    "All AMCs must be registered with SEBI under SEBI (Mutual Funds) Regulations 1996",
+    "India has 40+ SEBI registered AMCs managing Rs 80 lakh crore corpus",
+    "No mutual fund can legally guarantee returns",
+    "All mutual fund investments must go through KYC verified accounts",
+    "NAV (Net Asset Value) is published daily for all schemes",
+    "AMFI (Association of Mutual Funds in India) maintains registry at amfiindia.com",
+    "All mutual fund distributors must be AMFI registered (ARN holders)",
+    "Investors can verify schemes at amfiindia.com or sebi.gov.in"
+  ],
+  "red_flags": [
+    "Mutual fund promises guaranteed or assured returns of any kind",
+    "AMC name not found on AMFI website",
+    "Agent asks you to invest through unofficial apps or websites",
+    "No SEBI registration number provided for the AMC",
+    "Scheme not found on official AMC website",
+    "Agent pressures immediate investment without time to review",
+    "Returns promised far exceed category benchmarks",
+    "No KYC requirement — legitimate MF always requires KYC",
+    "Agent cannot provide AMFI Registration Number (ARN)",
+    "Investment link looks similar to but different from official AMC website",
+    "Agent asks for cash investment — all MF investments must be through banking channels",
+    "Scheme name very similar to a well known legitimate fund"
+  ],
+  "how_to_verify": [
+    "Go to amfiindia.com — official AMFI website",
+    "Click on Know Your MF → Fund Houses to verify AMC registration",
+    "Search scheme name on AMFI website to verify it exists",
+    "Verify AMC at SEBI website: sebi.gov.in → Registers → Mutual Funds",
+    "Check agent's ARN number on AMFI website",
+    "Invest only through official AMC website or SEBI registered apps like Zerodha, Groww, Paytm Money",
+    "Verify NAV daily on official AMC website or AMFI website",
+    "Call AMC customer care number listed on official website to verify scheme"
+  ],
+  "real_case": "SEBI has taken action against entities creating fake mutual fund schemes with names very similar to legitimate AMCs. Investors received professional-looking documents and were asked to invest in schemes that did not exist. Track B verification against SEBI and AMFI databases would have instantly flagged these schemes.",
+  "quiz": [
+    {
+      "question": "A mutual fund agent guarantees 25% annual returns on their equity fund. What should you do?",
+      "options": [
+        "Invest — a good fund manager can guarantee returns",
+        "Invest half your savings to be safe",
+        "Refuse — no mutual fund can legally guarantee returns",
+        "Ask for the guarantee in writing"
+      ],
+      "correct": 2,
+      "explanation": "No mutual fund can legally guarantee returns. Any guarantee is a fraud signal — report this agent to SEBI."
+    },
+    {
+      "question": "Where do you verify if a mutual fund AMC is registered?",
+      "options": [
+        "Google search",
+        "The agent's visiting card",
+        "AMFI website (amfiindia.com) and SEBI registry",
+        "Newspaper advertisements"
+      ],
+      "correct": 2,
+      "explanation": "Always verify on AMFI's official website and SEBI's registry. These are the only reliable sources."
+    },
+    {
+      "question": "What is the full form of AMFI?",
+      "options": [
+        "Association of Mutual Funds in India",
+        "Authority for Mutual Fund Investments",
+        "Agency for Market Fund Integrity",
+        "Association of Market Finance Institutions"
+      ],
+      "correct": 0,
+      "explanation": "AMFI stands for Association of Mutual Funds in India. Their website amfiindia.com is the official registry."
+    },
+    {
+      "question": "An agent asks you to invest in a mutual fund by paying cash. What should you do?",
+      "options": [
+        "Pay cash for convenience",
+        "Pay cash but ask for a receipt",
+        "Refuse — all MF investments must be through banking channels",
+        "Pay half cash and half cheque"
+      ],
+      "correct": 2,
+      "explanation": "All mutual fund investments must be through banking channels. Cash investments are not permitted and indicate fraud."
+    },
+    {
+      "question": "What is KYC in the context of mutual funds?",
+      "options": [
+        "Know Your Category — choosing the right fund type",
+        "Know Your Credentials — agent verification",
+        "Know Your Customer — investor identity verification mandatory for all MF investments",
+        "Know Your Capital — minimum investment amount"
+      ],
+      "correct": 2,
+      "explanation": "KYC (Know Your Customer) is mandatory identity verification for all mutual fund investors. Any scheme not requiring KYC is fraudulent."
+    },
+    {
+      "question": "What does NAV stand for in mutual funds?",
+      "options": [
+        "Net Annual Value",
+        "Net Asset Value — the per unit price of a mutual fund scheme",
+        "Nominal Asset Valuation",
+        "National Asset Value"
+      ],
+      "correct": 1,
+      "explanation": "NAV (Net Asset Value) is the per unit price of a mutual fund scheme, published daily. You can verify it on the AMC website."
+    },
+    {
+      "question": "A scheme called 'HDFC Guaranteed Growth Fund' approaches you for investment. HDFC AMC is a legitimate registered AMC. What should you check first?",
+      "options": [
+        "Invest immediately since HDFC is a trusted name",
+        "Verify if this specific scheme exists on HDFC AMC official website and AMFI",
+        "Invest a small amount to verify legitimacy",
+        "Check Google reviews for this scheme"
+      ],
+      "correct": 1,
+      "explanation": "Fraudsters use names of legitimate AMCs for fake schemes. Always verify the specific scheme on the official AMC website and AMFI."
+    },
+    {
+      "question": "What is an ARN number and why is it important?",
+      "options": [
+        "Account Registration Number — your investor account number",
+        "AMFI Registration Number — mandatory for all legitimate mutual fund distributors",
+        "Annual Returns Number — projected returns figure",
+        "Asset Risk Number — risk rating of the scheme"
+      ],
+      "correct": 1,
+      "explanation": "ARN (AMFI Registration Number) is mandatory for all legitimate mutual fund distributors. Always ask for and verify the agent's ARN."
+    },
+    {
+      "question": "Under which regulation are all mutual funds in India governed?",
+      "options": [
+        "SEBI (Portfolio Managers) Regulations 2020",
+        "SEBI (Mutual Funds) Regulations 1996",
+        "SEBI (CIS) Regulations 1999",
+        "SEBI (Investment Advisers) Regulations 2013"
+      ],
+      "correct": 1,
+      "explanation": "All mutual funds are governed under SEBI (Mutual Funds) Regulations 1996."
+    },
+    {
+      "question": "If you suspect a mutual fund scheme is fraudulent, where should you report it?",
+      "options": [
+        "Police station only",
+        "SEBI SCORES at scores.sebi.gov.in or call 1800 266 7575",
+        "Consumer court only",
+        "Reserve Bank of India"
+      ],
+      "correct": 1,
+      "explanation": "Report mutual fund fraud on SEBI SCORES at scores.sebi.gov.in or call SEBI helpline 1800 266 7575."
+    }
+  ]
+}

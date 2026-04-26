@@ -1,0 +1,153 @@
+{
+  "title": "Alternative Investment Funds (AIF)",
+  "icon": "🏦",
+  "color": "#1a5276",
+  "description": "Alternative Investment Funds (AIFs) are privately pooled investment vehicles that collect funds from sophisticated investors to invest in asset classes beyond traditional stocks and bonds — such as private equity, venture capital, hedge funds, real estate funds, and infrastructure funds. All AIFs in India must be registered with SEBI under the SEBI (Alternative Investment Funds) Regulations 2012.\n\nAIFs are designed for sophisticated investors with high risk appetite and financial capacity. SEBI therefore mandates a minimum investment of Rs 1 crore per investor — this high threshold ensures only financially capable investors participate in these higher-risk vehicles. There are three categories of AIFs with different investment strategies and regulations.\n\nFraudsters misuse the AIF label to lend credibility to fraudulent schemes targeting high net worth individuals and wealthy businesspeople. They use professional-looking documents, impressive office spaces, and sophisticated presentations to collect large sums before disappearing.",
+  "key_facts": [
+    "All AIFs must be registered under SEBI (Alternative Investment Funds) Regulations 2012",
+    "Minimum investment per investor is Rs 1 crore",
+    "Three categories: Category I (VC, social, infrastructure), Category II (PE, debt), Category III (hedge funds)",
+    "AIFs must provide a formal Private Placement Memorandum (PPM) to investors",
+    "No AIF can guarantee returns — all investments carry risk",
+    "AIFs can only raise funds through private placement — not public advertisement",
+    "AIF managers must have minimum net worth of Rs 5 crore",
+    "AIFs must file quarterly reports with SEBI"
+  ],
+  "red_flags": [
+    "Minimum investment offered below Rs 1 crore",
+    "No SEBI AIF registration certificate provided",
+    "Guaranteed or assured return promises",
+    "Fund manager cannot provide Private Placement Memorandum",
+    "AIF advertised publicly — through social media, TV, or newspapers",
+    "Offshore fund with no Indian regulatory registration",
+    "Pressure to invest before completing regulatory documentation",
+    "Returns promised far above typical AIF benchmarks",
+    "No quarterly reports or investor updates provided",
+    "Fund manager cannot confirm SEBI registration when asked",
+    "Investment collected through public WhatsApp groups",
+    "No audited financial statements available"
+  ],
+  "how_to_verify": [
+    "Go to sebi.gov.in → Registers → Alternative Investment Funds",
+    "Search the fund name or manager name",
+    "Verify AIF Category and SEBI registration number",
+    "Check registration validity date",
+    "Request the Private Placement Memorandum — mandatory document",
+    "Verify the fund manager's credentials and net worth",
+    "Check SEBI enforcement orders for any actions",
+    "Consult an independent SEBI registered Investment Adviser before investing"
+  ],
+  "real_case": "SEBI has taken action against entities claiming to be Category II or Category III AIFs but without valid SEBI registration. These entities collected crores from wealthy investors using professional-looking PPMs and impressive investment strategies. Track B verification against SEBI's AIF registry would have instantly exposed them.",
+  "quiz": [
+    {
+      "question": "What is the minimum investment amount per investor in a legitimate SEBI registered AIF?",
+      "options": [
+        "Rs 10 lakhs",
+        "Rs 25 lakhs",
+        "Rs 50 lakhs",
+        "Rs 1 crore"
+      ],
+      "correct": 3,
+      "explanation": "SEBI mandates minimum investment of Rs 1 crore per investor in all registered AIFs."
+    },
+    {
+      "question": "Under which regulation must all AIFs be registered?",
+      "options": [
+        "SEBI (Portfolio Managers) Regulations 2020",
+        "SEBI (Alternative Investment Funds) Regulations 2012",
+        "SEBI (Mutual Funds) Regulations 1996",
+        "SEBI (CIS) Regulations 1999"
+      ],
+      "correct": 1,
+      "explanation": "All AIFs must be registered under SEBI (Alternative Investment Funds) Regulations 2012."
+    },
+    {
+      "question": "How many categories of AIFs are there under SEBI regulations?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 1,
+      "explanation": "There are three AIF categories: Category I (VC, social impact, infrastructure), Category II (PE, debt), Category III (hedge funds using complex strategies)."
+    },
+    {
+      "question": "What mandatory document must every legitimate AIF provide to prospective investors?",
+      "options": [
+        "An annual report",
+        "A Private Placement Memorandum (PPM)",
+        "A letter of intent",
+        "A bank guarantee"
+      ],
+      "correct": 1,
+      "explanation": "A Private Placement Memorandum (PPM) is mandatory for all SEBI registered AIFs. It discloses investment strategy, risks, fees, and fund terms."
+    },
+    {
+      "question": "An AIF is advertised on Instagram and Telegram inviting investment from the general public. This is:",
+      "options": [
+        "Normal marketing for modern AIFs",
+        "A serious red flag — AIFs can only raise funds through private placement, not public advertising",
+        "Allowed for Category I AIFs",
+        "Permitted if minimum investment is stated clearly"
+      ],
+      "correct": 1,
+      "explanation": "AIFs are prohibited from raising funds through public advertising. Only private placement to sophisticated investors is allowed. Public advertising is a clear fraud signal."
+    },
+    {
+      "question": "An entity offers an AIF with minimum investment of Rs 10 lakhs promising 40% annual returns. What is wrong?",
+      "options": [
+        "Nothing — attractive investment",
+        "Both — minimum should be Rs 1 crore and guaranteed returns are impossible",
+        "Only the minimum is wrong",
+        "Only the guaranteed returns are wrong"
+      ],
+      "correct": 1,
+      "explanation": "Both are major red flags. Minimum investment should be Rs 1 crore and no AIF can legally guarantee returns."
+    },
+    {
+      "question": "Category III AIFs in India primarily include:",
+      "options": [
+        "Venture capital funds",
+        "Infrastructure funds",
+        "Hedge funds using complex or leveraged strategies",
+        "Social impact funds"
+      ],
+      "correct": 2,
+      "explanation": "Category III AIFs include hedge funds and funds that employ complex trading strategies including leverage and derivatives."
+    },
+    {
+      "question": "Can a SEBI registered AIF guarantee returns to investors?",
+      "options": [
+        "Yes if it is a debt AIF",
+        "Yes if backed by collateral",
+        "No — no AIF can legally guarantee returns",
+        "Yes for Category I AIFs only"
+      ],
+      "correct": 2,
+      "explanation": "No AIF category can legally guarantee returns. All AIF investments carry risk commensurate with their investment strategy."
+    },
+    {
+      "question": "What should you do before investing in any AIF?",
+      "options": [
+        "Just verify the registration on SEBI website",
+        "Verify SEBI registration AND read the full Private Placement Memorandum AND consult an independent SEBI registered adviser",
+        "Check returns claimed by existing investors",
+        "Verify the fund manager's LinkedIn profile"
+      ],
+      "correct": 1,
+      "explanation": "All three steps are important — SEBI verification, full PPM review, and independent advice. AIF investments are complex and high risk."
+    },
+    {
+      "question": "How frequently must SEBI registered AIFs file reports with SEBI?",
+      "options": [
+        "Annually",
+        "Half yearly",
+        "Quarterly",
+        "Monthly"
+      ],
+      "correct": 2,
+      "explanation": "SEBI registered AIFs must file quarterly reports with SEBI. Lack of regular reporting is a compliance red flag."
+    }
+  ]
+}

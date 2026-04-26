@@ -1,0 +1,153 @@
+{
+  "title": "Portfolio Management Services (PMS)",
+  "icon": "📊",
+  "color": "#1a3a5c",
+  "description": "Portfolio Management Services (PMS) is a professional investment service where a registered portfolio manager manages an individual's investment portfolio on their behalf. Unlike mutual funds which pool investor money, PMS manages each investor's portfolio separately and individually.\n\nAll PMS providers must be registered with SEBI under the SEBI (Portfolio Managers) Regulations 2020. The minimum investment amount for a legitimate PMS is Rs 50 lakhs — this threshold was set by SEBI to ensure PMS is offered only to investors with sufficient financial sophistication and capacity.\n\nFraudsters often misuse the PMS label to target high net worth individuals and businesspeople, promising superior returns through exclusive investment strategies. They collect large sums — sometimes crores — before disappearing. Warning signs include minimum investments below Rs 50 lakhs, guaranteed return promises, and requests for funds to personal accounts.",
+  "key_facts": [
+    "Minimum investment in legitimate PMS is Rs 50 lakhs",
+    "All PMS providers must be registered under SEBI (Portfolio Managers) Regulations 2020",
+    "PMS manager must maintain separate accounts for each client",
+    "PMS providers must provide monthly portfolio statements",
+    "No PMS can guarantee returns — all investments carry market risk",
+    "PMS fees must be disclosed upfront in a formal agreement",
+    "PMS providers must have minimum net worth of Rs 5 crore",
+    "Investors must sign a formal Portfolio Management Agreement"
+  ],
+  "red_flags": [
+    "Minimum investment offered below Rs 50 lakhs",
+    "No SEBI PMS registration number provided",
+    "Guaranteed or assured return promises",
+    "Requests for direct transfer to personal or unofficial account",
+    "No formal Portfolio Management Agreement provided",
+    "Manager claims extraordinary track record without audited proof",
+    "Unsolicited calls or WhatsApp messages offering PMS services",
+    "Offshore address or unverifiable company registration",
+    "No monthly portfolio statements provided",
+    "Manager cannot provide SEBI registration certificate",
+    "Fee structure not disclosed in writing upfront",
+    "Pressure to invest quickly without time to review documents"
+  ],
+  "how_to_verify": [
+    "Go to sebi.gov.in",
+    "Click Registers → Portfolio Managers",
+    "Search the firm name or registration number",
+    "Verify registration is current and not expired",
+    "Check SEBI enforcement orders for any actions against the firm",
+    "Ask the manager for their SEBI registration certificate",
+    "Verify the firm's registered office address matches SEBI records",
+    "Call SEBI helpline 1800 266 7575 to confirm registration"
+  ],
+  "real_case": "SEBI has taken action against multiple unregistered entities offering PMS-like services to retail investors. In several cases, operators collected crores from businesspeople promising 30-40% annual returns through exclusive trading strategies. SEBI's Track B verification would have instantly flagged these entities as unregistered.",
+  "quiz": [
+    {
+      "question": "What is the minimum investment amount for a legitimate SEBI registered PMS?",
+      "options": [
+        "Rs 10 lakhs",
+        "Rs 25 lakhs",
+        "Rs 50 lakhs",
+        "Rs 1 crore"
+      ],
+      "correct": 2,
+      "explanation": "SEBI mandates minimum investment of Rs 50 lakhs for all registered PMS providers."
+    },
+    {
+      "question": "Under which SEBI regulation must all PMS providers be registered?",
+      "options": [
+        "SEBI (Mutual Funds) Regulations 1996",
+        "SEBI (Portfolio Managers) Regulations 2020",
+        "SEBI (Investment Advisers) Regulations 2013",
+        "SEBI (CIS) Regulations 1999"
+      ],
+      "correct": 1,
+      "explanation": "All PMS providers must be registered under SEBI (Portfolio Managers) Regulations 2020."
+    },
+    {
+      "question": "A PMS provider offers minimum investment of Rs 10 lakhs. What does this mean?",
+      "options": [
+        "They are offering a special introductory rate",
+        "They are an unregistered entity — SEBI mandates Rs 50 lakhs minimum",
+        "They are a small boutique firm with special exemption",
+        "They are operating under state government approval"
+      ],
+      "correct": 1,
+      "explanation": "Minimum below Rs 50 lakhs is a clear sign of an unregistered entity. Legitimate PMS cannot legally offer below this threshold."
+    },
+    {
+      "question": "Can a legitimate SEBI registered PMS guarantee returns?",
+      "options": [
+        "Yes if the manager has more than 10 years experience",
+        "Yes for a fixed income portfolio only",
+        "No — no PMS can legally guarantee returns",
+        "Yes if backed by a bank guarantee"
+      ],
+      "correct": 2,
+      "explanation": "No SEBI registered PMS can legally guarantee returns. All market-linked investments carry risk."
+    },
+    {
+      "question": "What document must a PMS provider sign with every client?",
+      "options": [
+        "A simple receipt",
+        "A formal Portfolio Management Agreement",
+        "A letter of intent",
+        "A WhatsApp confirmation"
+      ],
+      "correct": 1,
+      "explanation": "A formal Portfolio Management Agreement is mandatory. Without it, the arrangement has no regulatory standing."
+    },
+    {
+      "question": "A PMS manager asks you to transfer Rs 75 lakhs to his personal savings account. What should you do?",
+      "options": [
+        "Transfer the funds — it is more convenient",
+        "Ask for a post dated cheque as security",
+        "Refuse — funds must go to a registered client account, never personal accounts",
+        "Transfer half now and half later"
+      ],
+      "correct": 2,
+      "explanation": "Funds must always go to a properly designated client account. Transfer to personal accounts is a clear fraud signal."
+    },
+    {
+      "question": "How often must a legitimate PMS provider send portfolio statements?",
+      "options": [
+        "Annually only",
+        "Monthly",
+        "Only when you ask",
+        "Quarterly"
+      ],
+      "correct": 1,
+      "explanation": "SEBI regulations require PMS providers to send monthly portfolio statements to all clients."
+    },
+    {
+      "question": "What is the minimum net worth requirement for a SEBI registered PMS provider?",
+      "options": [
+        "Rs 1 crore",
+        "Rs 2 crore",
+        "Rs 5 crore",
+        "Rs 10 crore"
+      ],
+      "correct": 2,
+      "explanation": "SEBI requires PMS providers to maintain minimum net worth of Rs 5 crore at all times."
+    },
+    {
+      "question": "You receive an unsolicited WhatsApp message from someone claiming to offer exclusive PMS services with 35% annual returns. What should you do?",
+      "options": [
+        "Express interest and ask for more details",
+        "Immediately verify their SEBI registration and reject if unregistered",
+        "Invest a small amount to test their performance",
+        "Share the message with friends who might be interested"
+      ],
+      "correct": 1,
+      "explanation": "Never respond to unsolicited investment offers. Verify SEBI registration immediately and report suspected frauds."
+    },
+    {
+      "question": "Where do you verify if a PMS provider is registered with SEBI?",
+      "options": [
+        "Their own website or brochure",
+        "SEBI official registry at sebi.gov.in → Portfolio Managers",
+        "BSE or NSE website",
+        "Ministry of Finance website"
+      ],
+      "correct": 1,
+      "explanation": "Always verify on SEBI's official Portfolio Managers registry. Never rely on the firm's own materials."
+    }
+  ]
+}

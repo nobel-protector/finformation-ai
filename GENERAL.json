@@ -1,0 +1,154 @@
+{
+  "title": "General Awareness — AI Fraud & Deepfakes",
+  "icon": "🤖",
+  "color": "#c0392b",
+  "description": "Artificial Intelligence has fundamentally changed the landscape of investment fraud. Generative AI tools can now create highly realistic deepfake videos of SEBI officials, RBI governors, finance ministers, and celebrity investors — indistinguishable from real videos to an untrained eye. Voice cloning technology can replicate anyone's voice from just a few seconds of audio. AI can generate professional-looking research reports, regulatory notices, and investment documents in minutes.\n\nThe scale of AI-enabled fraud is staggering. Deepfake incidents increased tenfold from 2022 to 2023. Fraud attempts using deepfakes increased by over 2,000% in three years. The FBI reported $4.57 billion in investment fraud losses in 2023, with AI-generated content identified as a key enabler.\n\nIn India, AI-generated deepfake videos of SEBI officials, RBI governors, and celebrities like Mukesh Ambani and Ratan Tata have been used to promote fraudulent investment schemes on social media. With over 22 crore demat accounts and millions of first-time investors relying on social media for financial information, the risk is enormous and growing.",
+  "key_facts": [
+    "Deepfake incidents increased tenfold from 2022 to 2023",
+    "Fraud attempts using deepfakes increased over 2000% in 3 years",
+    "FBI reported $4.57 billion in investment fraud losses in 2023",
+    "AI can clone any voice from just a few seconds of audio",
+    "SEBI, RBI, and other regulators NEVER endorse specific investments in videos",
+    "AI-generated text can create convincing fake research reports and regulatory notices",
+    "Fraudsters use deepfakes to impersonate trusted figures and regulators",
+    "Report AI fraud at cybercrime.gov.in and SEBI SCORES"
+  ],
+  "red_flags": [
+    "Video of regulator or celebrity endorsing a specific investment scheme",
+    "Slight lip sync issues — mouth movements do not match audio perfectly",
+    "Unnatural blinking patterns or absence of normal eye movement",
+    "Voice sounds slightly robotic, has unusual pauses, or lacks natural emotion",
+    "Background looks artificially generated, blurred, or inconsistent",
+    "Regulators never endorse specific investment products in videos ever",
+    "Facial expressions seem slightly off or do not match emotional context",
+    "AI generated images may show distorted hands, fingers, or background text",
+    "Message uses perfect formal language but feels generic and impersonal",
+    "Video quality seems artificially enhanced or too perfect",
+    "Celebrity endorsement comes through WhatsApp forward not official channel",
+    "Urgent call to action attached to a celebrity or official endorsement video"
+  ],
+  "how_to_verify": [
+    "Remember: SEBI, RBI, IOSCO officials NEVER endorse specific investments in videos",
+    "Check the official website or official YouTube channel of the regulator",
+    "If RBI Governor appears to endorse something — go to rbi.org.in to verify",
+    "Reverse image search the video thumbnail at images.google.com",
+    "Look for lip sync inconsistencies — watch the video slowly",
+    "Check if the video appears anywhere on official channels",
+    "Report suspected deepfakes at cybercrime.gov.in",
+    "Call SEBI helpline 1800 266 7575 to verify any SEBI-related claim",
+    "Use Finformation.ai Track A to submit video for deepfake detection"
+  ],
+  "real_case": "Multiple deepfake videos impersonating SEBI officials, RBI officials, and celebrities including Mukesh Ambani have been circulated on WhatsApp and Instagram in India promoting fake investment schemes. In each case, the impersonated individual never made any such statements. Finformation.ai's Track A (commercial deepfake detection API) would assess such videos and flag AI manipulation.",
+  "quiz": [
+    {
+      "question": "You receive a WhatsApp video of the RBI Governor recommending a cryptocurrency investment. What is most likely true?",
+      "options": [
+        "RBI Governor made a special one-time announcement",
+        "Very likely an AI deepfake — regulators never endorse specific investments",
+        "Invest a small amount to verify",
+        "Forward to friends so they can also benefit"
+      ],
+      "correct": 1,
+      "explanation": "Regulatory authorities NEVER endorse specific investment products in videos. Any such video is almost certainly a deepfake fraud."
+    },
+    {
+      "question": "What is a deepfake?",
+      "options": [
+        "A fake investment scheme website",
+        "AI generated video or audio making someone appear to say or do something they never did",
+        "A cloned fake trading platform",
+        "A fraudulent investment document"
+      ],
+      "correct": 1,
+      "explanation": "Deepfakes use generative AI to create realistic but fake videos or audio of real people — increasingly used in investment fraud."
+    },
+    {
+      "question": "By how much did deepfake fraud attempts increase over a 3-year period according to research?",
+      "options": [
+        "100%",
+        "500%",
+        "Over 2000%",
+        "50%"
+      ],
+      "correct": 2,
+      "explanation": "Research shows deepfake fraud attempts increased by over 2,000% (2,137% according to Signicat Research) in three years, showing the scale of the threat."
+    },
+    {
+      "question": "Which of these is a visual sign of a deepfake video?",
+      "options": [
+        "High video quality",
+        "Lip sync inconsistencies where mouth movements do not perfectly match audio",
+        "Professional background",
+        "Clear audio"
+      ],
+      "correct": 1,
+      "explanation": "Lip sync inconsistencies are a common sign of deepfakes. Current AI is not perfect at matching lip movements to audio — look carefully at the mouth."
+    },
+    {
+      "question": "A celebrity investor appears in a video recommending an investment scheme. This video was forwarded on WhatsApp. What should you do?",
+      "options": [
+        "Invest — celebrities only endorse credible products",
+        "Invest a small amount to test",
+        "Verify on the celebrity's official social media if they made this announcement",
+        "Forward to more friends to get their opinion"
+      ],
+      "correct": 2,
+      "explanation": "Always verify on the person's official verified social media accounts. WhatsApp forwards are a common vector for deepfake fraud."
+    },
+    {
+      "question": "What technique can be used to identify AI-generated images?",
+      "options": [
+        "Check brightness and contrast",
+        "Look for distorted hands, fingers, or background text — common AI generation errors",
+        "Check if colours are natural",
+        "Look for watermarks"
+      ],
+      "correct": 1,
+      "explanation": "Current AI image generators frequently make errors with hands, fingers, and text in backgrounds. These are telltale signs of AI-generated images."
+    },
+    {
+      "question": "Where should you report a suspected deepfake video promoting investment fraud in India?",
+      "options": [
+        "Only to the police",
+        "cybercrime.gov.in AND SEBI SCORES at scores.sebi.gov.in",
+        "Only to the social media platform",
+        "Only to SEBI"
+      ],
+      "correct": 1,
+      "explanation": "Report to both cybercrime.gov.in (for the deepfake crime) and SEBI SCORES (for the investment fraud). Both reports are important."
+    },
+    {
+      "question": "How much audio does AI need to clone someone's voice accurately?",
+      "options": [
+        "At least 1 hour of audio",
+        "At least 30 minutes",
+        "Just a few seconds of audio is sufficient for modern AI",
+        "At least 10 minutes"
+      ],
+      "correct": 2,
+      "explanation": "Modern AI voice cloning technology can create a convincing voice clone from just a few seconds of audio — making anyone with any public presence vulnerable to voice fraud."
+    },
+    {
+      "question": "What was the total investment fraud loss reported by FBI IC3 in 2023?",
+      "options": [
+        "$1.2 billion",
+        "$4.57 billion",
+        "$8.5 billion",
+        "$2.3 billion"
+      ],
+      "correct": 1,
+      "explanation": "FBI IC3 reported $4.57 billion in investment fraud losses in 2023 alone, a 38% year-on-year increase, with AI content identified as a key enabler."
+    },
+    {
+      "question": "India has approximately how many demat accounts as of recent data?",
+      "options": [
+        "5 crore",
+        "10 crore",
+        "22 crore",
+        "50 crore"
+      ],
+      "correct": 2,
+      "explanation": "India has over 22 crore demat accounts, representing the massive scale of retail investor participation — and the potential impact of AI-enabled fraud."
+    }
+  ]
+}
