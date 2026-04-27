@@ -24,9 +24,9 @@ def track_a(user_input):
         "type": "text"
     }
 
-def track_b_and_c(user_input, collection, client):
+def track_b_and_c(user_input, df, client):
     # Step 1 — Get regulatory context from database
-    context = query_database(collection, user_input)
+    context = query_database(df, user_input)
 
     # Step 2 — Load fraud patterns dynamically from JSON
     patterns = load_fraud_patterns()
