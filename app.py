@@ -36,7 +36,7 @@ for filename in sorted(os.listdir(modules_folder)):
         with open(os.path.join(modules_folder, filename), 'r', encoding='utf-8') as f:
             MODULES[key] = json.load(f)
 # Load regulatory database into ChromaDB
-collection = load_database()
+df = load_database()
 
 # Initialise all session state variables
 for key, val in {
@@ -63,7 +63,7 @@ tab1, tab2 = st.tabs([
 
 # Tab 1 — Fraud Detection
 with tab1:
-    render_detection_tab(client, collection, MODULES)
+    render_detection_tab(client, df, MODULES)
 
 # Tab 2 — Learning Centre
 with tab2:
