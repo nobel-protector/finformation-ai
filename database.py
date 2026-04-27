@@ -1,47 +1,51 @@
-# database.py — ChromaDB loading and querying
+# database.py — Regulatory Database using Pandas
 #
 # PURPOSE:
-# This file handles all communication with the regulatory database.
-# Think of it as the LIBRARIAN of Finformation.ai.
-#
-# WHAT IT DOES:
-# 1. Reads regulatory_database.csv
-# 2. Loads all 100 entities into ChromaDB
-# 3. Searches ChromaDB for relevant records
-# 4. Caches results for faster repeated queries
+# Simple text search using pandas.
+# No ChromaDB — works on any Python version.
 
-import chromadb
 import pandas as pd
 from config import CONFIG
 
-# Simple cache to avoid repeated queries
 query_cache = {}
 
 def load_database():
     df = pd.read_csv(CONFIG["paths"]["database"])
-    chroma_client = chromadb.Client()
-    try:
-        chroma_client.delete_collection("regulatory_data")
-    except:
-        pass
-    collection = chroma_client.get_or_create_collection("regulatory_data")
-    for i, row in df.iterrows():
-        name = str(row["name"])
-        reg = str(row["registration"])
-        regulator = str(row["regulator"])
-        status = str(row["status"])
-        notes = str(row["notes"])
-        doc = "Entity: " + name + ". Registration: " + reg + ". Regulator: " + regulator + ". Status: " + status + ". Notes: " + notes
-        collection.add(documents=[doc], ids=[str(i)])
-    return collection
+    return df
 
-def query_database(collection, user_input):
+def query_database(df, user_input):
     if user_input in query_cache:
         return query_cache[user_input]
-    results = collection.query(
-        query_texts=[user_input],
-        n_results=CONFIG["max_db_results"]
-    )
-    context = "\n".join(results["documents"][0])
+
+    user_lower = user_input.lower()
+    results = []
+
+    for _, row in df.iterrows():
+        row_text = (
+            str(row["name"]) + " " +
+            str(row["status"]) + " " +
+            str(row["notes"])
+        ).lower()
+
+        words = user_lower.split()
+        matches = sum(1 for word in words if word in row_text)
+
+        if matches > 0:
+            results.append((matches, row))
+
+    results.sort(key=lambda x: x[0], reverse=True)
+    top = results[:3]
+
+    if top:
+        context = "\n".join([
+            "Entity: " + str(r["name"]) +
+            ". Registration: " + str(r["registration"]) +
+            ". Status: " + str(r["status"]) +
+            ". Notes: " + str(r["notes"])
+            for _, r in top
+        ])
+    else:
+        context = "No matching entities found in regulatory database."
+
     query_cache[user_input] = context
     return context
