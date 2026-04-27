@@ -15,7 +15,7 @@ from ui_feedback import render_feedback
 from ui_learning import render_module_content, render_quiz_score
 
 
-def render_detection_tab(client, collection, MODULES):
+def render_detection_tab(client, df, MODULES):
 
     col1, col2 = st.columns([3, 2])
 
@@ -134,7 +134,7 @@ def render_detection_tab(client, collection, MODULES):
             "Regulatory Verification and Fraud Pattern Analysis "
             "(Single Gemini Call)..."
         )
-        tb, tc = track_b_and_c(user_input, collection, client)
+        tb, tc = track_b_and_c(user_input, df, client)
         progress.progress(75)
 
         # Step 4 — Fusion and explanation
